@@ -29,85 +29,107 @@ microservices, and AI-powered enterprise solutions.
 
 </div>
 
-<div class="grid">
+<table width="100%" cellspacing="15">
 
-<div class="card">
+<tr>
+
+<td width="65%" valign="top" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>💫 About Me</h3>
 
 <ul>
-
 <li>💻 Java Backend Developer</li>
-
 <li>🚀 Enterprise Application Development</li>
-
 <li>🏗️ Scalable Microservices</li>
-
 <li>🔐 Spring Security & JWT Authentication</li>
-
 <li>⚡ REST API Development</li>
-
 <li>🤖 Exploring AI with Java</li>
-
 <li>📚 Continuous Learner</li>
-
 </ul>
 
-</div>
+</td>
 
-<div class="card">
+<td width="35%" valign="top" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>🎯 Career Goal</h3>
 
-<p style="line-height:1.8">
-
-Become an expert Backend Engineer and Solution Architect capable of
-building highly scalable, secure, distributed enterprise systems while
-leveraging AI to solve real-world business challenges.
-
+<p>
+Become an expert Backend Engineer and Solution Architect capable of building highly scalable, secure, distributed enterprise systems while leveraging AI to solve real-world business challenges.
 </p>
 
-</div>
+</td>
 
-</div>
+</tr>
 
-<div class="card">
+</table>
+
+<br>
+
+<table width="100%" cellspacing="15">
+
+<tr>
+
+<td style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>🚀 Tech Stack</h3>
-</div>
-<div class="card">
+
+<p>
+Java 21 • Spring Boot • Spring Security • Hibernate • REST API • PostgreSQL • MySQL • React • Docker • Git • Redis • Kafka • RabbitMQ • Microservices • Tomcat
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width="100%" cellspacing="15">
+
+<tr>
+
+<td colspan="2" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>🔨 I Enjoy Building</h3>
 
-<div class="projects">
+<table width="100%">
 
-<div class="project">
-<h4>🏢 Enterprise Systems</h4>
-<p>Scalable business applications.</p>
-</div>
+<tr>
+<td>🏢 Enterprise Systems</td>
+<td>🌐 Microservices</td>
+</tr>
 
-<div class="project">
-<h4>🌐 Microservices</h4>
-<p>Cloud-ready distributed architecture.</p>
-</div>
+<tr>
+<td>🔐 Secure REST APIs</td>
+<td>🛡 Authentication & Authorization</td>
+</tr>
 
-<div class="project">
-<h4>🔐 Secure APIs</h4>
-<p>Authentication, Authorization & RBAC.</p>
-</div>
+<tr>
+<td>👥 RBAC</td>
+<td>🔑 Single Sign-On (SSO)</td>
+</tr>
 
-<div class="project">
-<h4>🤖 AI Solutions</h4>
-<p>AI-powered business applications.</p>
-</div>
+<tr>
+<td>📨 Notification Systems</td>
+<td>🤖 AI Applications</td>
+</tr>
 
-</div>
+</table>
 
-</div>
+</td>
 
-<div class="grid">
+</tr>
 
-<div class="card">
+</table>
+
+<br>
+
+<table width="100%" cellspacing="15">
+
+<tr>
+
+<td width="50%" valign="top" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>🌱 Currently Learning</h3>
 
@@ -122,42 +144,62 @@ leveraging AI to solve real-world business challenges.
 <li>AI Integration</li>
 </ul>
 
-</div>
+</td>
 
-<div class="card">
+<td width="50%" valign="top" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>📂 Projects</h3>
 
 <ul>
-<li>Fuel Management System</li>
-<li>Appointment Booking System</li>
-<li>Workflow Management</li>
-<li>Beneficiary Management</li>
-<li>Forgot Password Module</li>
-<li>API Gateway</li>
+<li>⛽ Fuel Management System</li>
+<li>📅 Appointment Booking System</li>
+<li>👥 Beneficiary Management</li>
+<li>🔄 Workflow Management</li>
+<li>🔐 Forgot Password Module</li>
+<li>🌐 API Gateway</li>
 </ul>
 
-</div>
+</td>
 
-</div>
+</tr>
 
-<div class="card">
+</table>
+
+<br>
+
+<table width="100%" cellspacing="15">
+
+<tr>
+
+<td style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:20px;">
 
 <h3>💡 Interests</h3>
 
-<div class="skills">
+<table width="100%">
 
-<div class="skill">Software Architecture</div>
-<div class="skill">Clean Code</div>
-<div class="skill">Performance</div>
-<div class="skill">Backend Engineering</div>
-<div class="skill">Design Patterns</div>
-<div class="skill">Distributed Systems</div>
-<div class="skill">Artificial Intelligence</div>
+<tr>
+<td>🏗 Software Architecture</td>
+<td>⚡ Performance Optimization</td>
+<td>💻 Backend Engineering</td>
+</tr>
 
-</div>
+<tr>
+<td>🧹 Clean Code</td>
+<td>🎯 Design Patterns</td>
+<td>🌍 Distributed Systems</td>
+</tr>
 
-</div>
+<tr>
+<td colspan="3" align="center">🤖 Artificial Intelligence</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
 
 <div class="card footer">
 
