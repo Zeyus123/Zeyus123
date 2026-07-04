@@ -6,124 +6,7 @@
 
 <title>Biswajit Portfolio</title>
 
-<style>
 
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
-}
-
-body{
-    background:#0d1117;
-    color:#e6edf3;
-    padding:40px;
-}
-
-.container{
-    max-width:1200px;
-    margin:auto;
-}
-
-.card{
-    background:#161b22;
-    border:1px solid #30363d;
-    border-radius:15px;
-    padding:25px;
-    margin-bottom:25px;
-    transition:.3s;
-}
-
-.card:hover{
-    transform:translateY(-5px);
-    border-color:#58a6ff;
-}
-
-.header{
-    text-align:center;
-}
-
-.header h1{
-    color:#58a6ff;
-    font-size:42px;
-}
-
-.header h2{
-    margin-top:10px;
-    color:#8b949e;
-    font-weight:400;
-}
-
-.header p{
-    margin-top:20px;
-    font-size:17px;
-    line-height:1.7;
-}
-
-.grid{
-    display:grid;
-    grid-template-columns:2fr 1fr;
-    gap:25px;
-}
-
-h3{
-    color:#58a6ff;
-    margin-bottom:15px;
-}
-
-ul{
-    padding-left:20px;
-}
-
-li{
-    margin:10px 0;
-}
-
-.skills{
-    display:flex;
-    flex-wrap:wrap;
-    gap:12px;
-}
-
-.skill{
-    background:#21262d;
-    border:1px solid #30363d;
-    color:#58a6ff;
-    padding:10px 18px;
-    border-radius:25px;
-    font-weight:600;
-}
-
-.projects{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-    gap:20px;
-}
-
-.project{
-    background:#21262d;
-    border-radius:12px;
-    padding:18px;
-    border-left:5px solid #58a6ff;
-}
-
-.footer{
-    text-align:center;
-    font-size:20px;
-    color:#58a6ff;
-    font-style:italic;
-}
-
-@media(max-width:900px){
-
-.grid{
-    grid-template-columns:1fr;
-}
-
-}
-
-</style>
 
 </head>
 
@@ -191,29 +74,7 @@ leveraging AI to solve real-world business challenges.
 <div class="card">
 
 <h3>🚀 Tech Stack</h3>
-
-<div class="skills">
-
-<div class="skill">Java 21</div>
-<div class="skill">Spring Boot</div>
-<div class="skill">Spring Security</div>
-<div class="skill">Hibernate</div>
-<div class="skill">REST API</div>
-<div class="skill">PostgreSQL</div>
-<div class="skill">MySQL</div>
-<div class="skill">React</div>
-<div class="skill">Docker</div>
-<div class="skill">Git</div>
-<div class="skill">Redis</div>
-<div class="skill">Kafka</div>
-<div class="skill">RabbitMQ</div>
-<div class="skill">Microservices</div>
-<div class="skill">Tomcat</div>
-
 </div>
-
-</div>
-
 <div class="card">
 
 <h3>🔨 I Enjoy Building</h3>
