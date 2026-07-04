@@ -1,5 +1,313 @@
-# 💫 About Me:
-Hi there 👋, I'm Biswajit<br>💻 Java Backend Developer<br><br>I'm a Java Backend Developer with around 3 years of experience building enterprise applications using Java and Spring Boot. I enjoy designing scalable backend systems, solving complex business problems, and continuously learning modern software architecture.<br><br>🚀 What I work with<br>Java 21<br>Spring Boot<br>Spring Security<br>Spring Data JPA & Hibernate<br>REST APIs<br>PostgreSQL & MySQL<br>React (learning and building full-stack applications)<br>JSP<br>Maven<br>Git & GitHub<br>Docker<br>JWT Authentication<br>Microservices<br>Apache Kafka & RabbitMQ (learning and implementing)<br>Redis<br>Tomcat<br>🔨 What I enjoy building<br>Enterprise Management Systems<br>Microservices Architecture<br>Secure REST APIs<br>Authentication & Authorization<br>Role-Based Access Control (RBAC)<br>SSO Integration<br>Workflow Management Systems<br>Real-time Notification Systems<br>AI-powered Business Applications<br>🌱 Currently Learning<br>System Design<br>Kubernetes<br>CI/CD Pipelines<br>Distributed Systems<br>Event-Driven Architecture<br>Cloud Deployment<br>AI Integration with Spring Boot<br>Advanced React<br>🎯 Career Goal<br><br>My goal is to become an expert Backend and Solution Architect capable of designing highly scalable, secure, and high-performance enterprise systems. I am also exploring AI-powered applications using Java and Spring Boot to build intelligent business solutions.<br><br>📂 Projects<br>Fuel Management System<br>Appointment Booking System<br>Beneficiary Management System<br>Workflow Management Module<br>Secure Authentication & Forgot Password Module<br>Enterprise Microservices with API Gateway<br>💡 Interests<br>Software Architecture<br>Performance Optimization<br>Backend Engineering<br>Clean Code<br>Design Patterns<br>Distributed Systems<br>AI for Enterprise Applications
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Biswajit Portfolio</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+}
+
+body{
+    background:#0d1117;
+    color:#e6edf3;
+    padding:40px;
+}
+
+.container{
+    max-width:1200px;
+    margin:auto;
+}
+
+.card{
+    background:#161b22;
+    border:1px solid #30363d;
+    border-radius:15px;
+    padding:25px;
+    margin-bottom:25px;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    border-color:#58a6ff;
+}
+
+.header{
+    text-align:center;
+}
+
+.header h1{
+    color:#58a6ff;
+    font-size:42px;
+}
+
+.header h2{
+    margin-top:10px;
+    color:#8b949e;
+    font-weight:400;
+}
+
+.header p{
+    margin-top:20px;
+    font-size:17px;
+    line-height:1.7;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:2fr 1fr;
+    gap:25px;
+}
+
+h3{
+    color:#58a6ff;
+    margin-bottom:15px;
+}
+
+ul{
+    padding-left:20px;
+}
+
+li{
+    margin:10px 0;
+}
+
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:12px;
+}
+
+.skill{
+    background:#21262d;
+    border:1px solid #30363d;
+    color:#58a6ff;
+    padding:10px 18px;
+    border-radius:25px;
+    font-weight:600;
+}
+
+.projects{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.project{
+    background:#21262d;
+    border-radius:12px;
+    padding:18px;
+    border-left:5px solid #58a6ff;
+}
+
+.footer{
+    text-align:center;
+    font-size:20px;
+    color:#58a6ff;
+    font-style:italic;
+}
+
+@media(max-width:900px){
+
+.grid{
+    grid-template-columns:1fr;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card header">
+
+<h1>Hi 👋 I'm Biswajit</h1>
+
+<h2>Java Backend Developer | Spring Boot | Microservices</h2>
+
+<p>
+Java Backend Developer with around <b>3 years of experience</b> building
+enterprise applications using Java and Spring Boot.
+Passionate about scalable backend architecture, secure REST APIs,
+microservices, and AI-powered enterprise solutions.
+</p>
+
+</div>
+
+<div class="grid">
+
+<div class="card">
+
+<h3>💫 About Me</h3>
+
+<ul>
+
+<li>💻 Java Backend Developer</li>
+
+<li>🚀 Enterprise Application Development</li>
+
+<li>🏗️ Scalable Microservices</li>
+
+<li>🔐 Spring Security & JWT Authentication</li>
+
+<li>⚡ REST API Development</li>
+
+<li>🤖 Exploring AI with Java</li>
+
+<li>📚 Continuous Learner</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h3>🎯 Career Goal</h3>
+
+<p style="line-height:1.8">
+
+Become an expert Backend Engineer and Solution Architect capable of
+building highly scalable, secure, distributed enterprise systems while
+leveraging AI to solve real-world business challenges.
+
+</p>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h3>🚀 Tech Stack</h3>
+
+<div class="skills">
+
+<div class="skill">Java 21</div>
+<div class="skill">Spring Boot</div>
+<div class="skill">Spring Security</div>
+<div class="skill">Hibernate</div>
+<div class="skill">REST API</div>
+<div class="skill">PostgreSQL</div>
+<div class="skill">MySQL</div>
+<div class="skill">React</div>
+<div class="skill">Docker</div>
+<div class="skill">Git</div>
+<div class="skill">Redis</div>
+<div class="skill">Kafka</div>
+<div class="skill">RabbitMQ</div>
+<div class="skill">Microservices</div>
+<div class="skill">Tomcat</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h3>🔨 I Enjoy Building</h3>
+
+<div class="projects">
+
+<div class="project">
+<h4>🏢 Enterprise Systems</h4>
+<p>Scalable business applications.</p>
+</div>
+
+<div class="project">
+<h4>🌐 Microservices</h4>
+<p>Cloud-ready distributed architecture.</p>
+</div>
+
+<div class="project">
+<h4>🔐 Secure APIs</h4>
+<p>Authentication, Authorization & RBAC.</p>
+</div>
+
+<div class="project">
+<h4>🤖 AI Solutions</h4>
+<p>AI-powered business applications.</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="grid">
+
+<div class="card">
+
+<h3>🌱 Currently Learning</h3>
+
+<ul>
+<li>System Design</li>
+<li>Kubernetes</li>
+<li>Cloud Deployment</li>
+<li>CI/CD</li>
+<li>Distributed Systems</li>
+<li>Event-Driven Architecture</li>
+<li>Advanced React</li>
+<li>AI Integration</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h3>📂 Projects</h3>
+
+<ul>
+<li>Fuel Management System</li>
+<li>Appointment Booking System</li>
+<li>Workflow Management</li>
+<li>Beneficiary Management</li>
+<li>Forgot Password Module</li>
+<li>API Gateway</li>
+</ul>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h3>💡 Interests</h3>
+
+<div class="skills">
+
+<div class="skill">Software Architecture</div>
+<div class="skill">Clean Code</div>
+<div class="skill">Performance</div>
+<div class="skill">Backend Engineering</div>
+<div class="skill">Design Patterns</div>
+<div class="skill">Distributed Systems</div>
+<div class="skill">Artificial Intelligence</div>
+
+</div>
+
+</div>
+
+<div class="card footer">
+
+"Building secure, scalable and high-performance backend systems."
+
+</div>
+
+</div>
+
+</body>
+</html>
 
 
 ## 🌐 Socials:
