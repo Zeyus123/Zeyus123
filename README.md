@@ -1,221 +1,115 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<h1 align="center">Hi 👋, I'm Biswajit</h1>
+
+<h3 align="center">
+💻 Java Backend Developer • ☕ Spring Boot Enthusiast • 🚀 Microservices Learner
+</h3>
+
+<p align="center">
+Passionate about building secure, scalable, and high-performance backend systems.<br>
+I enjoy solving real-world business problems through clean architecture, modern Java technologies,
+and continuously exploring new tools that improve software quality and scalability.
+</p>
 
 
 
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🛠️ What I Know</h2>
+
+- ☕ Java 21
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🗄️ Spring Data JPA & Hibernate
+- 🌐 REST APIs
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- ⚛️ React (Basics)
+- 📄 JSP
+- 🧩 Maven
+- 🐳 Docker
+- 🐙 Git & GitHub
+- 🔑 JWT Authentication
+- 🏗️ Microservices
+- ⚡ Redis
+- 🐱 Apache Tomcat
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🚀 Currently Exploring</h2>
+
+- ☸️ Kubernetes
+- 📦 CI/CD Pipelines
+- 🌍 Distributed Systems
+- 📡 Event-Driven Architecture
+- 📨 Apache Kafka
+- 🐇 RabbitMQ
+- ☁️ Cloud Deployment
+- 🏛️ System Design
+- 🤖 AI Integration with Java
+- 🧠 Software Architecture
+- 📈 Performance Optimization
+- ⚛️ Advanced React
+
+</td>
+
+</tr>
+
+</table>
 
 
-</head>
 
-<body>
+<table width="100%">
 
-<div class="container">
+<tr>
 
-    <!-- Header -->
-    <div class="card header">
-        <h1>Hi 👋 I'm Biswajit</h1>
-        <h2>Java Backend Developer | Spring Boot | Microservices</h2>
+<td>
 
-        <p>
-            Java Backend Developer with around <b>3 years of experience</b> building
-            enterprise applications using Java and Spring Boot.
-            Passionate about scalable backend architecture, secure REST APIs,
-            microservices, and AI-powered enterprise solutions.
-        </p>
-    </div>
+<h2>💫 About Me</h2>
 
-    <!-- About & Goal -->
-    <table width="100%" cellspacing="15">
-        <tr>
+I'm a Java Backend Developer with around <strong>3 years of experience</strong> developing enterprise applications using Java and Spring Boot.
 
-            <td width="65%" valign="top">
-                <div class="card">
-                    <h3>💫 About Me</h3>
+I enjoy designing scalable backend architectures, building secure REST APIs, implementing authentication and authorization systems, and creating maintainable solutions for complex business requirements.
 
-                    <ul>
-                        <li>💻 Java Backend Developer</li>
-                        <li>🚀 Enterprise Application Development</li>
-                        <li>🏗️ Scalable Microservices</li>
-                        <li>🔐 Spring Security & JWT Authentication</li>
-                        <li>⚡ REST API Development</li>
-                        <li>🤖 Exploring AI with Java</li>
-                        <li>📚 Continuous Learner</li>
-                    </ul>
-                </div>
-            </td>
+My primary interests include backend engineering, microservices, distributed systems, clean code practices, and software architecture. I believe that great software is not just about writing code—it's about designing reliable, scalable, and maintainable systems.
 
-            <td width="35%" valign="top">
-                <div class="card">
-                    <h3>🎯 Career Goal</h3>
+I'm continuously learning modern technologies such as Kubernetes, Kafka, RabbitMQ, cloud-native development, and AI-powered backend solutions to grow into a Backend Engineer and Solution Architect capable of building enterprise-grade applications.
 
-                    <p>
-                        Become an expert Backend Engineer and Solution Architect
-                        capable of building highly scalable, secure, distributed
-                        enterprise systems while leveraging AI to solve
-                        real-world business challenges.
-                    </p>
-                </div>
-            </td>
+Outside of coding, I enjoy exploring new technologies, improving problem-solving skills, and contributing to projects that create real business value.
 
-        </tr>
-    </table>
+</td>
 
-    <!-- Tech Stack -->
-    <div class="card">
+</tr>
 
-        <h3>🚀 Tech Stack</h3>
-
-        <p>
-            Java 21 • Spring Boot • Spring Security • Hibernate • REST API • PostgreSQL •
-            MySQL • React • Docker • Git • Redis • Kafka • RabbitMQ •
-            Microservices • Tomcat
-        </p>
-
-    </div>
-
-    <!-- Enjoy Building -->
-    <div class="card">
-
-        <h3>🔨 I Enjoy Building</h3>
-
-        <table width="100%">
-
-            <tr>
-                <td>🏢 Enterprise Systems</td>
-                <td>🌐 Microservices</td>
-            </tr>
-
-            <tr>
-                <td>🔐 Secure REST APIs</td>
-                <td>🛡 Authentication & Authorization</td>
-            </tr>
-
-            <tr>
-                <td>👥 Role-Based Access Control (RBAC)</td>
-                <td>🔑 Single Sign-On (SSO)</td>
-            </tr>
-
-            <tr>
-                <td>📨 Notification Systems</td>
-                <td>🤖 AI Applications</td>
-            </tr>
-
-        </table>
-
-    </div>
-
-    <!-- Learning & Projects -->
-    <table width="100%" cellspacing="15">
-
-        <tr>
-
-            <td width="50%" valign="top">
-
-                <div class="card">
-
-                    <h3>🌱 Currently Learning</h3>
-
-                    <ul>
-                        <li>System Design</li>
-                        <li>Kubernetes</li>
-                        <li>Cloud Deployment</li>
-                        <li>CI/CD</li>
-                        <li>Distributed Systems</li>
-                        <li>Event-Driven Architecture</li>
-                        <li>Advanced React</li>
-                        <li>AI Integration</li>
-                    </ul>
-
-                </div>
-
-            </td>
-
-            <td width="50%" valign="top">
-
-                <div class="card">
-
-                    <h3>📂 Projects</h3>
-
-                    <ul>
-                        <li>⛽ Fuel Management System</li>
-                        <li>📅 Appointment Booking System</li>
-                        <li>👥 Beneficiary Management System</li>
-                        <li>🔄 Workflow Management Module</li>
-                        <li>🔐 Forgot Password Module</li>
-                        <li>🌐 Enterprise API Gateway</li>
-                    </ul>
-
-                </div>
-
-            </td>
-
-        </tr>
-
-    </table>
-
-    <!-- Interests -->
-    <div class="card">
-
-        <h3>💡 Interests</h3>
-
-        <table width="100%">
-
-            <tr>
-                <td>🏗 Software Architecture</td>
-                <td>⚡ Performance Optimization</td>
-                <td>💻 Backend Engineering</td>
-            </tr>
-
-            <tr>
-                <td>🧹 Clean Code</td>
-                <td>🎯 Design Patterns</td>
-                <td>🌍 Distributed Systems</td>
-            </tr>
-
-            <tr>
-                <td colspan="3" align="center">
-                    🤖 Artificial Intelligence
-                </td>
-            </tr>
-
-        </table>
-
-    </div>
-
-    <!-- Footer -->
-    <div class="card footer">
-        <strong>
-            "Building secure, scalable and high-performance backend systems."
-        </strong>
-    </div>
-
-</div>
-
-</body>
-</html>
+</table>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/biswajit-behera-32028a22a) 
+
+<p align="center">
+
+<b>💡 "Building secure, scalable, and high-performance backend systems that solve real-world business problems."</b>
+
+</p>
+
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zeyus123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Zeyus123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zeyus123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zeyus123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api?username=Zeyus123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Zeyus123&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zeyus123&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zeyus123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Zeyus123&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Zeyus123&icon=0&color=0)](https://visitcount.itsvg.in)
